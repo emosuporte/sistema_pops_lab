@@ -1,3 +1,4 @@
-streamlit
-PyMuPDF
-PIL
+streamlit==1.26.0
+Pillow==9.5.0
+PyMuPDF==1.23.2
+
